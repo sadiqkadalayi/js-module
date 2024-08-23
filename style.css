@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(26, 31, 31);
+    /* background-color: rgb(13, 182, 182); */
+    color: white;
+    
+}
+
+.nav-bg {
+    background-color: rgb(26, 31, 31);
+    color: white;
+}
+
+.nav-brand{
+    color: white;
+}
+
+.nav-brand:hover{
+    color: aqua;
+}
+.nav-brand:focus{
+    color: white;
+}
+.single-line{
+    background-color: white;
+    width: 75px;
+    margin-left: 10px;
+    height: 3px;
+    border: 1px solid none;
+    border-radius: 10px;
+}
+i {
+    color: white;
+}
+.twelve-size {
+    font-size: .8rem;
+}
+.twel-first{
+    font-size: 2rem;
+}
+.Abt-BG {
+    background-color: rgb(48, 53, 53);
+}
