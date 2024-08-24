@@ -40,3 +40,10 @@ i {
 .Abt-BG {
     background-color: rgb(48, 53, 53);
 }
+li {
+    list-style-type: none;
+}
+.contact li {
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
